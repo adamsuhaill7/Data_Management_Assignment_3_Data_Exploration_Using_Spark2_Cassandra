@@ -4,10 +4,12 @@
 - **Course**: STQD6324 – Data Management
 - **Semester**: 2, 2024/2025
 - **Student**: Adam Suhail Bin Shahril
-- **Dataset**: MovieLens 100k ([Link](https://grouplens.org/datasets/movielens/))
+- **Dataset**: MovieLens 100k ([Link])
 
-## 📝 Project Overview
-This project focuses on exploring and analyzing the MovieLens 100k dataset. We will utilize Spark2 and Cassandra to perform data exploration and analysis, aiming to uncover insights regarding user ratings and preferences.
+## 📝 Project Title
+**"Data Exploration of MovieLens 100k: Uncovering User Preferences and Trends"**
+
+![movies](Images/movies.jpg)
 
 ### 📥 Step 1: Download MovieLens Dataset
 We download the following files from the MovieLens 100k dataset:
@@ -59,3 +61,4 @@ We filter users based on their occupation and age.
 
 ## 🙏 Thank You
 Thank you for reviewing this MovieLens assignment. This notebook demonstrates how to use Apache Spark and Cassandra for large-scale movie data analysis using PySpark and SQL. Feel free to explore further queries and insights!
+
