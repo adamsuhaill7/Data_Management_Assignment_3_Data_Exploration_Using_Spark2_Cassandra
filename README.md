@@ -47,16 +47,6 @@ In this step, we persist the `users` DataFrame into the `movielens` keyspace in 
 ### 🔍 Step 3: Analyze Data and Answer Key Questions
 We will perform analyses based on the following questions:
 
-1. **Calculate the average rating for each movie**: Using SQL queries, we will compute the average ratings and present the results.
-   
-2. **Identify the top ten movies with the highest average ratings**: We will rank the movies based on their average ratings.
-
-3. **Find users who have rated at least 50 movies and identify their favourite movie genres**: We will filter active users and determine their top-rated genres.
-
-4. **Find all users who are less than 20 years old**: A query will identify users below this age threshold.
-
-5. **Find all users whose occupation is “scientist” and whose age is between 30 and 40 years old**: We will filter users based on occupation and age criteria.
-
 ### ✅ Question 1: Calculate the average rating for each movie
 We calculate the average rating for each movie using SQL queries.
 
