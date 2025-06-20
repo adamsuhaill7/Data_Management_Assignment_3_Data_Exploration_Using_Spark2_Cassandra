@@ -1,4 +1,4 @@
-# 📊 Assignment 3 – Data Exploration using Spark2 and Cassandra
+# 📊 Assignment 3 – Data Exploration Using Spark2 & Cassandra
 
 ## 📚 Course Information
 - **Course**: STQD6324 – Data Management
